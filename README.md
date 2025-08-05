@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shiv Shanker Gupta 👋
 
-<!--
-**Shivshanker869/Shivshanker869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Automation Test Engineer | Java | Selenium | TestNG | Cucumber | JMeter  
+🔹 Passionate about writing efficient and scalable automation frameworks  
+🔹 Love exploring APIs and Performance Testing
 
-Here are some ideas to get you started:
+## 💻 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Demo Web Shop Automation (Selenium + Java + TestNG)
+[GitHub Link]()
+
+### 🔹 BDD Cucumber Framework
+[GitHub Link]()
+
+### 🔹 REST API Testing with Postman
+[GitHub Link]()
+
+### 🔹 Performance Testing with JMeter
+[GitHub Link]()
+
+---
+
+## 📫 Connect with me:
+- [LinkedIn](www.linkedin.com/in/shivshankergupta)
+- [Email](gopalgupta9639@gmail.com)
