@@ -1,16 +1,21 @@
 # Hi, I'm Shiv Shanker Gupta 👋
-🧪 Quality Assurance Engineer | Manual & Automation Tester
+## 🧪 **Quality Assurance Engineer | Manual & Automation Tester**
 
 ## 👩‍💻 About Me
-💼 I'm a QA Engineer with strong knowledge of Manual Testing, Automation Testing, and Testing Tools like:
-🔹 Selenium (Java & JavaScript)
-🔹 Cypress
-🔹 JMeter
-🔹 Postman
-💡 Always curious to explore bugs & ensure high-quality software.
-✍️ Skilled in documenting test scenarios, writing automation scripts, and optimizing workflows.
-🎯 My goal is to ensure zero-defect delivery through effective testing strategies.  
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/shivshankergupta) |   gopalgupta9639@gmail.com
+
+💼 I'm a **QA Engineer** with strong knowledge of **Manual Testing**, **Automation Testing**, and tools like:  
+🔹 Selenium (Java & JavaScript)  
+🔹 Cypress  
+🔹 JMeter  
+🔹 Postman  
+
+💡 Always curious to explore bugs & ensure high-quality software.  
+✍️ Skilled in documenting test scenarios, writing automation scripts, and optimizing workflows.  
+🎯 My goal is to ensure **zero-defect delivery** through effective testing strategies.
+
+📫 How to reach me:  
+🔗 [LinkedIn](www.linkedin.com/in/shivshankergupta)  
+📧 gopalgupta9639@gmail.com
 ---
 ## 🛠️ Skills & Tools
 💻 Languages
