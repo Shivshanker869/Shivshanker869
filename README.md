@@ -18,10 +18,13 @@
 📧 gopalgupta9639@gmail.com
 ---
 ## 🛠️ Skills & Tools
-💻 Languages
+
+**💻 Languages**
+
 Java JavaScript HTML CSS SQL
 
-🧪 Testing Skills
+**🧪 Testing Skills**
+
 Manual Testing: Functional, Non-Functional, Regression, UAT, Smoke, Sanity
 Automation: Selenium (Java), Cypress (JS), TestNG, Cucumber (BDD), POM
 API Testing: Postman, REST Assured
