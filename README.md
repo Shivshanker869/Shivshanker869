@@ -51,9 +51,11 @@
 
 ---
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivshankergupta&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivshankergupta&layout=compact&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivshankergupta&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivshankergupta&theme=radical" alt="streak" />
+</p>
 ---
 ## 💻 Projects
 
@@ -72,5 +74,7 @@
 ---
 
 ## 📫 Connect with me:
-- [LinkedIn](www.linkedin.com/in/shivshankergupta)
-- [Email](gopalgupta9639@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/shivshankergupta)
+- 📧 [Email](gopalgupta9639@gmail.com)
+- 🌐 [Portfolio](https://shivshanker.lovable.app/)
+> ✨ _“Passionate about Quality | Committed to Automation | Always Learning”_
