@@ -1,14 +1,28 @@
 # Hi, I'm Shiv Shanker Gupta 👋
+🧪 Quality Assurance Engineer | Manual & Automation Tester
 
-🔹 Automation Test Engineer | Java | Selenium | TestNG | Cucumber | JMeter  
-🔹 Passionate about writing efficient and scalable automation frameworks  
-🔹 Love exploring APIs and Performance Testing
-
----
- Aspiring QA Automation Engineer | Skilled in Selenium, Java, Postman, JMeter, and Manual Testing  
-🎯 Passionate about building reliable test automation frameworks  
-🌱 Currently enhancing my BDD-Cucumber, TestNG, and Performance Testing skills  
+## 👩‍💻 About Me
+💼 I'm a QA Engineer with strong knowledge of Manual Testing, Automation Testing, and Testing Tools like:
+🔹 Selenium (Java & JavaScript)
+🔹 Cypress
+🔹 JMeter
+🔹 Postman
+💡 Always curious to explore bugs & ensure high-quality software.
+✍️ Skilled in documenting test scenarios, writing automation scripts, and optimizing workflows.
+🎯 My goal is to ensure zero-defect delivery through effective testing strategies.  
 📫 How to reach me: [LinkedIn](www.linkedin.com/in/shivshankergupta) |   gopalgupta9639@gmail.com
+---
+## 🛠️ Skills & Tools
+💻 Languages
+Java JavaScript HTML CSS SQL
+
+🧪 Testing Skills
+Manual Testing: Functional, Non-Functional, Regression, UAT, Smoke, Sanity
+Automation: Selenium (Java), Cypress (JS), TestNG, Cucumber (BDD), POM
+API Testing: Postman, REST Assured
+Bug & Test Management: Jira, Zephyr
+Performance Testing: JMeter
+Security Testing: BurpSuite
 
 ---
 ## 🔧 Tech Stack & Tools
@@ -23,7 +37,11 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
 
 ---
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivshankergupta&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivshankergupta&layout=compact&theme=radical)
 
+---
 ## 💻 Projects
 
 ### 🔹 Demo Web Shop Automation (Selenium + Java + TestNG)
