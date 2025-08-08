@@ -60,7 +60,7 @@
 ## 💻 Projects
 
 ### 🔹 Demo Web Shop Automation (Selenium + Java + TestNG)
-[GitHub Link]()
+[GitHub Link](https://github.com/Shivshanker869/SeleniumAutomationProject)
 
 ### 🔹 BDD Cucumber Framework
 [GitHub Link]()
