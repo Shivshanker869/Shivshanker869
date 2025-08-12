@@ -78,6 +78,13 @@ It also integrates **Extent Reports** for detailed execution reporting.
 - **Design Pattern:** Page Object Model (POM)  
 - **Reporting:** Extent Reports  
 - **Build Tool:** Maven
+
+  ## ⚡ Features
+- Login and registration automation
+- Add to cart & checkout automation
+- Dynamic waits for stability
+- Screenshot capture on failure
+- HTML Extent Reports generation
 - [GitHub Link](https://github.com/Shivshanker869/SeleniumAutomationProject)
 ---
 # ✅ Todoist Manual Testing Project
