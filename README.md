@@ -4,7 +4,7 @@
 ## 👩‍💻 About Me
 
 💼 I'm a **QA Engineer** with strong knowledge of **Manual Testing**, **Automation Testing**, and tools like:  
-🔹 Selenium (Java & JavaScript)  
+🔹 Selenium (Java )  
 🔹 Cypress  
 🔹 JMeter  
 🔹 Postman  
@@ -65,30 +65,80 @@
 
 ## 💻 Projects
 **
-### 🔹 Demo Web Shop Automation (Selenium + Java + TestNG)
-**Description:** Automated the functional and regression testing of the **Demo Web Shop** e-commerce application using **Selenium WebDriver, Java, and TestNG**.
-- **Framework:** Implemented **Page Object Model (POM)** design pattern for maintainable and reusable test scripts.
-- **Features:**
-  - Automated user flows like login, registration, product search, add to cart, and checkout.
-  - Used **TestNG** for test execution, grouping, prioritization, and reporting.
+# 🚀 Demo Web Shop Automation Framework
+
+## 📌 Project Overview
+This project automates the key user flows of **Demo Web Shop** using **Selenium, Java, and TestNG** with the **Page Object Model (POM)** design pattern.  
+It also integrates **Extent Reports** for detailed execution reporting.
+
+## 🛠 Tech Stack
+- **Language:** Java  
+- **Automation Tool:** Selenium WebDriver  
+- **Test Framework:** TestNG  
+- **Design Pattern:** Page Object Model (POM)  
+- **Reporting:** Extent Reports  
+- **Build Tool:** Maven
 - [GitHub Link](https://github.com/Shivshanker869/SeleniumAutomationProject)
 ---
-### 🔹 Todoist Manual
-- **Description:** Conducted end-to-end manual testing of the **nopCommerce Admin Demo** site.
-- **Scope:** Functional, Usability, and UI validations.
-- **Activities:**
-  - Designed detailed **test scenarios** and **test cases**.
-  - Prepared comprehensive **bug reports** with severity & priority classification.
-  - Followed real-world QA process including **test planning** and execution.
+# ✅ Todoist Manual Testing Project
+
+## 📌 Project Overview
+This project involves the **manual testing** of the **Todoist Task Management Application**.  
+The goal was to identify functional, UI, and usability issues and document them with detailed test cases, bug reports, and a professional test summary report.
+
+## 🛠 Tools & Technologies Used
+- **Test Management:** Microsoft Excel / Google Sheets
+- **Bug Tracking:** Jira / Excel
+- **Test Design:** Test Plan, Test Scenarios, Test Cases
+- **Test Reporting:** Test Summary Report
+
+## 📂 Documentation Deliverables
+1. **Test Plan** – Scope, objectives, resources, timelines, and testing approach.
+2. **Test Scenarios & Test Cases** – Well-structured test cases with priority & severity.
+3. **Bug Report** – Detailed defect log with reproduction steps, expected vs actual results, and screenshots.
+4. **Test Summary Report** – Final testing outcome with coverage and defect analysis.
+
+## 🔍 Key Testing Areas
+- **User Registration & Login**
+- **Task Creation, Editing, and Deletion**
+- **Due Dates & Priority Settings**
+- **Recurring Tasks**
+- **UI/UX Verification**
+- **Cross-browser Compatibility Checks**
 - [GitHub Link](https://github.com/Shivshanker869/B41_SDET_027_BugBuster)
+ 
 ---
-### 🔹 nopCommerce
-- **Description:** Performed manual testing of the **Todoist Task Management** application.
-- **Scope:** Core features, UI, and workflow validations.
-- **Activities:**
-  - Created structured **test cases** covering positive and negative scenarios.
-  - Reported and documented defects with clear reproduction steps.
-  - Ensured complete requirement coverage for both **functional** and **non-functional** aspects.
+# 🛒 nopCommerce Manual Testing Project
+
+## 📌 Project Overview
+This project involves **manual testing** of the **nopCommerce Admin Demo Website**.  
+The objective was to verify the core functionalities, identify defects, and document them through professional QA deliverables including a **Test Plan**, **Test Scenarios**, **Test Cases**, **Bug Reports**, and a **Test Summary Report**.
+
+**Application Under Test (AUT):**  
+🔗 [nopCommerce Admin Demo](https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F)
+
+## 🛠 Tools & Technologies Used
+- **Test Management:** Microsoft Excel / Google Sheets
+- **Bug Tracking:** Jira / Excel
+- **Documentation:** Word / Excel
+- **Testing Type:** Functional, UI/UX, Regression, Compatibility
+
+## 📂 Documentation Deliverables
+1. **Test Plan** – Scope, objectives, resources, timelines, and testing strategy.
+2. **Test Scenarios & Test Cases** – Well-defined test cases with priorities and expected results.
+3. **Bug Report** – Detailed defect log with steps to reproduce, expected vs actual results, and severity/priority.
+4. **Test Summary Report** – Final execution results, defect analysis, and testing conclusion.
+
+## 🔍 Key Testing Areas
+- **Login & Authentication**
+- **Customer Management**
+- **Product Catalog**
+- **Order Processing**
+- **Discounts & Promotions**
+- **Reports & Dashboard**
+- **UI/UX Verification**
+- **Cross-Browser Compatibility**
+
 - [GitHub Link](https://github.com/Shivshanker869/QA-Chllenge)
 
 
