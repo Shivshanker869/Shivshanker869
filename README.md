@@ -60,16 +60,31 @@
 ## 💻 Projects
 
 ### 🔹 Demo Web Shop Automation (Selenium + Java + TestNG)
+**Description:** Automated the functional and regression testing of the **Demo Web Shop** e-commerce application using **Selenium WebDriver, Java, and TestNG**.
+- **Framework:** Implemented **Page Object Model (POM)** design pattern for maintainable and reusable test scripts.
+- **Features:**
+  - Automated user flows like login, registration, product search, add to cart, and checkout.
+  - Used **TestNG** for test execution, grouping, prioritization, and reporting.
 [GitHub Link](https://github.com/Shivshanker869/SeleniumAutomationProject)
 
-### 🔹 BDD Cucumber Framework
-[GitHub Link]()
+### 🔹 Todoist Manual
+- **Description:** Conducted end-to-end manual testing of the **nopCommerce Admin Demo** site.
+- **Scope:** Functional, Usability, and UI validations.
+- **Activities:**
+  - Designed detailed **test scenarios** and **test cases**.
+  - Prepared comprehensive **bug reports** with severity & priority classification.
+  - Followed real-world QA process including **test planning** and execution.
+[GitHub Link](https://github.com/Shivshanker869/B41_SDET_027_BugBuster)
 
-### 🔹 REST API Testing with Postman
-[GitHub Link]()
+### 🔹 nopcCommerce
+- **Description:** Performed manual testing of the **Todoist Task Management** application.
+- **Scope:** Core features, UI, and workflow validations.
+- **Activities:**
+  - Created structured **test cases** covering positive and negative scenarios.
+  - Reported and documented defects with clear reproduction steps.
+  - Ensured complete requirement coverage for both **functional** and **non-functional** aspects.
+[GitHub Link](https://github.com/Shivshanker869/QA-Chllenge)
 
-### 🔹 Performance Testing with JMeter
-[GitHub Link]()
 
 ---
 
