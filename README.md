@@ -78,7 +78,7 @@
   - Followed real-world QA process including **test planning** and execution.
 - [GitHub Link](https://github.com/Shivshanker869/B41_SDET_027_BugBuster)
 ---
-### 🔹 nopcCommerce
+### 🔹 nopCommerce
 - **Description:** Performed manual testing of the **Todoist Task Management** application.
 - **Scope:** Core features, UI, and workflow validations.
 - **Activities:**
