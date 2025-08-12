@@ -53,8 +53,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
- - <img src="https://github-readme-stats.vercel.app/api?username=shivshankergupta&show_icons=true&theme=radical" alt="stats" />
- - <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivshankergupta&theme=radical" alt="streak" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=shivshankergupta&show_icons=true&theme=radical" alt="stats" /> 
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivshankergupta&theme=radical" alt="streak" /> 
   
 </p>
 
