@@ -1,5 +1,5 @@
 # Hi, I'm Shiv Shanker Gupta 👋
-## 🧪 **Quality Assurance Engineer | Manual & Automation Tester**
+## 🧪 **Aspiring QA Engineer**
 
 ## 👩‍💻 About Me
 
@@ -14,7 +14,7 @@
 🎯 My goal is to ensure **zero-defect delivery** through effective testing strategies.
 
 📫 How to reach me:  
-🔗 [LinkedIn](www.linkedin.com/in/shivshankergupta)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivshankergupta/)  
 📧 gopalgupta9639@gmail.com
 ---
 ## 🛠️ Skills & Tools
