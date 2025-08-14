@@ -154,5 +154,5 @@ The objective was to verify the core functionalities, identify defects, and docu
 ## 📫 Connect with me:
 - 💼 [LinkedIn](www.linkedin.com/in/shivshankergupta)
 - 📧 [Email](gopalgupta9639@gmail.com)
-- 🌐 [Portfolio](https://shivshanker.lovable.app/)
+- 🌐 [Portfolio](https://shivs-porfolio.lovable.app/)
 > ✨ _“Passionate about Quality | Committed to Automation | Always Learning”_
