@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
 </p>
 
-## 🧪 **Aspiring QA Engineer**
+
 
 ## 👩‍💻 About Me
 
