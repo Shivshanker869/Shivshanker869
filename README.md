@@ -83,13 +83,18 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin-bottom: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivshanker869&show_icons=true&theme=radical" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" style="margin-bottom: 5px;" />
+  <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages" style="margin-bottom: 5px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivshanker869&theme=radical" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivshanker869&layout=compact&theme=radical" />
 
 </div>
+
 
 
 
@@ -187,5 +192,5 @@ The objective was to verify the core functionalities, identify defects, and docu
 ## 📫 Connect with me:
 - 💼 [LinkedIn](www.linkedin.com/in/shivshankergupta)
 - 📧 [Email](gopalgupta9639@gmail.com)
-- 🌐 [Portfolio](https://shivs-porfolio.lovable.app/)
+- 🌐 [Portfolio](https://shivshanker.lovable.app/)
 > ✨ _“Passionate about Quality | Committed to Automation | Always Learning”_
