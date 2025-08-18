@@ -1,4 +1,32 @@
-# Hi, I'm Shiv Shanker Gupta 👋
+<h1 align="center">Hi, I'm Shiv Shanker Gupta 👋</h1>  
+<h3 align="center">🧪Quality Assurance Engineer | Manual & Automation Tester</h3>  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+QA+Engineer;API+Testing+with+Postman;Manual+%2B+Automation+Tester" alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Manual%20Testing-Experienced-blue" />
+  <img src="https://img.shields.io/badge/Automation-Cypress%20%7C%20Selenium-green" />
+  <img src="https://img.shields.io/badge/Performance-JMeter-red" />
+  <img src="https://img.shields.io/badge/Security-Burp%20Suite%20%7C%20OWASP-orange" />
+  <img src="https://img.shields.io/badge/API%20Testing-Postman-orange?logo=postman&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+</p>
+
 ## 🧪 **Aspiring QA Engineer**
 
 ## 👩‍💻 About Me
