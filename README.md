@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shiv Shanker Gupta 👋</h1>  
-<h3 align="center">🧪Quality Assurance Engineer | Manual & Automation Tester</h3>  
+<h2 align="center">##🧪Quality Assurance Engineer | Manual & Automation Tester</h2>  
 
 
 <p align="center">
