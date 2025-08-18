@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shiv Shanker Gupta 👋</h1>  
 <h3 align="center">🧪Quality Assurance Engineer | Manual & Automation Tester</h3>  
-
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+QA+Engineer;API+Testing+with+Postman;Manual+%2B+Automation+Testing" alt="Typing SVG" />
 </p>
@@ -21,7 +21,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" alt="GitHub" />
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="48" height="48" alt="GitHub" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
