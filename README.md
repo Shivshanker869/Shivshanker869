@@ -101,7 +101,7 @@
 
 ---
 
-## 💻 Projects
+# 💻 Projects
 **
 # 🚀 Demo Web Shop Automation Framework
 
