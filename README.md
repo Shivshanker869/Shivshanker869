@@ -18,7 +18,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <!-- Selenium -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium" />
 
@@ -52,7 +52,8 @@
   <!-- Cypress (light icon, white bg) -->
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/cypress-icon.svg" width="48" height="48" alt="Cypress" style="background:white; padding:5px; border-radius:8px;"/>
 </p>
-<img src="https://www.zaproxy.org/img/logos/burp.png" width="48" height="48" alt="Burp Suite" style="background:white; padding:5px; border-radius:8px;"/>
+<img src="https://raw.githubusercontent.com/some-user/some-repo/main/images/burp.png" width="48" height="48" alt="Burp Suite" style="background:white; padding:6px; border-radius:8px;" />
+
 
 
 
