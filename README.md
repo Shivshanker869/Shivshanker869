@@ -19,14 +19,37 @@
 ---
 
 <p align="left">
+  <!-- Selenium -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium" />
+
+  <!-- Postman -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman"/>
+
+  <!-- Jira -->
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="48" height="48" alt="Jira"/>
+
+  <!-- GitHub -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+
+  <!-- Java -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+
+  <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+
+  <!-- MySQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+
+  <!-- HTML5 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" style="background:white; padding:4px; border-radius:6px;"/>
+
+  <!-- CSS3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" style="background:white; padding:4px; border-radius:6px;"/>
+
+  <!-- JMeter (bright / white bg) -->
   <img src="https://raw.githubusercontent.com/apache/jmeter/master/xdocs/images/jmeter_square.png" width="48" height="48" alt="JMeter" style="background:white; padding:5px; border-radius:8px;"/>
+
+  <!-- Cypress (light icon, white bg) -->
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/cypress-icon.svg" width="48" height="48" alt="Cypress" style="background:white; padding:5px; border-radius:8px;"/>
 </p>
 
