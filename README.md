@@ -18,7 +18,7 @@
 
 ---
 
-<p align="left">
+<p align="center">
   <!-- Selenium -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium" />
 
