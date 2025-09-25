@@ -52,7 +52,9 @@
   <!-- Cypress (light icon, white bg) -->
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/cypress-icon.svg" width="48" height="48" alt="Cypress" style="background:white; padding:5px; border-radius:8px;"/>
 </p>
-<img src="https://raw.githubusercontent.com/some-user/some-repo/main/images/burp.png" width="48" height="48" alt="Burp Suite" style="background:white; padding:6px; border-radius:8px;" />
+<!-- test: direct image URL visible? -->
+![test-burp](https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/assets/burp.png =48x48)
+
 
 
 
