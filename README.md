@@ -52,8 +52,16 @@
   <!-- Cypress (light icon, white bg) -->
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/cypress-icon.svg" width="48" height="48" alt="Cypress" style="background:white; padding:5px; border-radius:8px;"/>
 </p>
-<!-- test: direct image URL visible? -->
-![test-burp](https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/assets/burp.png =48x48)
+<p align="center">
+  <!-- Burp-style square icon (48x48) - inline SVG data URI (no external hosting needed) -->
+  <img
+    src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><rect rx="8" width="48" height="48" fill="%23FF6A00"/><text x="50%25" y="55%25" font-family="Arial" font-weight="700" font-size="28" fill="white" text-anchor="middle">B</text></svg>'
+    width="48"
+    height="48"
+    alt="Burp Suite" />
+</p>
+
+
 
 
 
