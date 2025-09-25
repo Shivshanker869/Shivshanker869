@@ -26,8 +26,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
- <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/apache-jmeter.svg" width="48" height="48" alt="JMeter" />
- <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/cypress.svg" width="48" height="48" alt="Cypress" />
+ <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/apache-jmeter.svg" width="48" height="48" alt="JMeter"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="48" height="48" alt="Cypress" style="background:white; padding:5px; border-radius:8px;"/>
 
 </p>
 
