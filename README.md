@@ -29,8 +29,8 @@
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="48" height="48" alt="Jira"/>
 
   <!-- GitHub -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
-
+  
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="48" height="48" alt="GitHub" />
   <!-- Java -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
 
